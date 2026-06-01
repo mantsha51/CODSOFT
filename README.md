@@ -41,7 +41,7 @@ Bot: Goodbye!
 
 ## What I Learned
 
-While working on this project, I learned how chatbots work at a basic level, how to handle user input in Python, and how to create conversation flow using conditional statements and undertood how i would love to acquire more knowledge in this feild.
+While working on this project, I learned how chatbots work at a basic level, how to handle user input in Python, and how to create conversation flow using conditional statements and understood how i would love to acquire more knowledge in this feild.
 
 ## by:
 
